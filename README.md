@@ -1,3 +1,5 @@
+
+原地址：https://github.com/wubo/apptools
 Android多渠道打包工具
 ========
 
